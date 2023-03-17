@@ -1,0 +1,19 @@
+.flcontainer {
+    
+    margin-top: 5px;
+    margin-right: 20px;
+    padding-left:5px;
+    padding-top:7px;
+    align-self: "auto";
+    overflow: 'scroll';
+    height: 1000px;
+    background-Color: 'white';
+    border-width:5;
+    border-color:'#a3a375';
+    width:auto;
+    border-Width: 0;
+    @media (max-width: 1000px) {
+      grid-template-columns: repeat(auto-fill, 
+                             minmax(200px, 1fr));
+    }
+  }
