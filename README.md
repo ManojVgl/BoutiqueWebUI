@@ -63,9 +63,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 ### Please do some exercise 
 
-Please download the serviceproject
-Deleted images from this project so we need to add the images
-DB Scripts will be attached soon
+1. Please download the serviceproject
+2. Deleted images from this project so we need to add the images
+3. DB Scripts will be attached soon
 
 ### Deployment
 
